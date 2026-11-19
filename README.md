@@ -40,7 +40,7 @@ A Tampermonkey script that allows you to one-click clear various stored data of 
 
 ### 脚本安装 | Script Installation
 1. 打开油猴插件，点击「创建新脚本」
-2. 删除默认模板代码，复制粘贴 [完整脚本代码](https://github.com/ChiamZhang/WebsiteDataCleaner/script.user.js)
+2. 删除默认模板代码，复制粘贴 [完整脚本代码](https://update.greasyfork.org/scripts/556409/Website%20Data%20Cleaner.user.js)
 3. 点击「文件」→「保存」（快捷键：Ctrl+S / Cmd+S）
 4. 刷新任意网页，脚本自动激活
 
